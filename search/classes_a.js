@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['networkinterfaceoptions_0',['NetworkInterfaceOptions',['../structfaker_1_1NetworkInterfaceOptions.html',1,'faker']]],
-  ['number_1',['Number',['../classfaker_1_1Number.html',1,'faker']]]
+  ['science_0',['Science',['../classfaker_1_1Science.html',1,'faker']]],
+  ['string_1',['String',['../classfaker_1_1String.html',1,'faker']]]
 ];

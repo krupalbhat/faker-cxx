@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['location_0',['Location',['../classfaker_1_1Location.html',1,'faker']]],
-  ['lorem_1',['Lorem',['../classfaker_1_1Lorem.html',1,'faker']]]
+  ['passwordoptions_0',['PasswordOptions',['../structfaker_1_1PasswordOptions.html',1,'faker']]],
+  ['person_1',['Person',['../classfaker_1_1Person.html',1,'faker']]],
+  ['phone_2',['Phone',['../classfaker_1_1Phone.html',1,'faker']]]
 ];

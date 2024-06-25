@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['database_0',['Database',['../classfaker_1_1Database.html',1,'faker']]],
-  ['datatype_1',['Datatype',['../classfaker_1_1Datatype.html',1,'faker']]],
-  ['date_2',['Date',['../classfaker_1_1Date.html',1,'faker']]]
+  ['hacker_0',['Hacker',['../classfaker_1_1Hacker.html',1,'faker']]],
+  ['helper_1',['Helper',['../classfaker_1_1Helper.html',1,'faker']]]
 ];
